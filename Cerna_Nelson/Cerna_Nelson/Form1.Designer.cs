@@ -127,9 +127,9 @@
             this.lblRegistro.AutoSize = true;
             this.lblRegistro.Location = new System.Drawing.Point(121, 32);
             this.lblRegistro.Name = "lblRegistro";
-            this.lblRegistro.Size = new System.Drawing.Size(36, 13);
+            this.lblRegistro.Size = new System.Drawing.Size(40, 13);
             this.lblRegistro.TabIndex = 8;
-            this.lblRegistro.Text = "x de n";
+            this.lblRegistro.Text = "X de N";
             // 
             // BtnUltimo
             // 
